@@ -1,0 +1,4 @@
+dog appears 2 times
+cat appears 1 times
+poodle appears 1 times
+diana appears 3 times
